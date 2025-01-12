@@ -1,0 +1,13 @@
+{
+    "name": "kolsgithub Enterprise Organization Workflow",
+    "description": "kolsgithub Enterprise Organization CI workflow template.",
+    "iconName": "octicon zap",
+    "categories": [
+        "continuous-integration"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.csproj$"
+    ]
+}
