@@ -1,0 +1,2 @@
+# .github
+enterprise-starter-workflow
