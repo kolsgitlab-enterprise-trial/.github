@@ -1,6 +1,6 @@
 {
-    "name": "koldgithub Organization Workflow",
-    "description": "koldgithub Organization CI workflow template.",
+    "name": "kolsgithub Enterprise Workflow",
+    "description": "kolsgithub Enterprise CI workflow template.",
     "iconName": "octicon zap",
     "categories": [
         "continuous-integration"
